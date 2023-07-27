@@ -1,0 +1,15 @@
+C:\Users\2022102020058\source\repos\array e lista\array e lista\bin\Debug\net6.0\array e lista.exe
+C:\Users\2022102020058\source\repos\array e lista\array e lista\bin\Debug\net6.0\array e lista.deps.json
+C:\Users\2022102020058\source\repos\array e lista\array e lista\bin\Debug\net6.0\array e lista.runtimeconfig.json
+C:\Users\2022102020058\source\repos\array e lista\array e lista\bin\Debug\net6.0\array e lista.dll
+C:\Users\2022102020058\source\repos\array e lista\array e lista\bin\Debug\net6.0\array e lista.pdb
+C:\Users\2022102020058\source\repos\array e lista\array e lista\obj\Debug\net6.0\array e lista.csproj.AssemblyReference.cache
+C:\Users\2022102020058\source\repos\array e lista\array e lista\obj\Debug\net6.0\array e lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020058\source\repos\array e lista\array e lista\obj\Debug\net6.0\array e lista.AssemblyInfoInputs.cache
+C:\Users\2022102020058\source\repos\array e lista\array e lista\obj\Debug\net6.0\array e lista.AssemblyInfo.cs
+C:\Users\2022102020058\source\repos\array e lista\array e lista\obj\Debug\net6.0\array e lista.csproj.CoreCompileInputs.cache
+C:\Users\2022102020058\source\repos\array e lista\array e lista\obj\Debug\net6.0\array e lista.dll
+C:\Users\2022102020058\source\repos\array e lista\array e lista\obj\Debug\net6.0\refint\array e lista.dll
+C:\Users\2022102020058\source\repos\array e lista\array e lista\obj\Debug\net6.0\array e lista.pdb
+C:\Users\2022102020058\source\repos\array e lista\array e lista\obj\Debug\net6.0\array e lista.genruntimeconfig.cache
+C:\Users\2022102020058\source\repos\array e lista\array e lista\obj\Debug\net6.0\ref\array e lista.dll
