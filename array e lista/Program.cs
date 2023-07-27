@@ -12,12 +12,13 @@
 //Console.WriteLine(n[2]); 
 
 List<string> list = new List<string>();
-list.Add("pedro");
+list.Add("pedro");// adicionar elemento na lista
 list.Add("cassiane");
 list.Add("enzo");
 
 Console.WriteLine(list[0]);
-Console.WriteLine(list.Count);
+Console.WriteLine(list.Count); // tamanho da lista
+list.Insert(0, "pedro"); // insere um elemento em uma posição que deseja mudar
 
 
 foreach (string str in list)
